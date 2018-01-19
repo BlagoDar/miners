@@ -1,0 +1,2 @@
+# miners
+Miners configuration
